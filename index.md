@@ -6,7 +6,7 @@ O grupo de usuários de Software Livre Tchelinux, em parceria com a [UNOPAR](htt
 
 ## Chamada de Trabalhos
 
-A **Chamada de Trabalhos está aberta** e o prazo para submissão de propostas de palestra é **06 de Março de 2020**. Os trabalhos escolhidos serão anúnciados no dia 07 de Fevereiro de 2020.
+A **Chamada de Trabalhos está aberta** e o prazo para submissão de propostas de palestra é **06 de Março de 2020**. Os trabalhos escolhidos serão anúnciados no dia **07 de Março de 2020**.
 
 <center><a href="https://uruguaiana.tchelinux.org/cfp/" style="color:#ff4040"><b><h3>Clique aqui e submeta sua palestra!<h3></b></a></center>
 

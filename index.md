@@ -4,12 +4,6 @@
 
 O grupo de usuários de Software Livre Tchelinux, em parceria com a [UNOPAR](https://www.unopar.com.br/), tem o prazer de convidar a comunidade para participar do evento que ocorrerá no dia **4 de Abril de 2020 a partir das 8:30h** na UNOPAR em Uruguaiana.
 
-## Chamada de Trabalhos
-
-A **Chamada de Trabalhos está aberta** e o prazo para submissão de propostas de palestra é **07 de Março de 2020**. Os trabalhos escolhidos serão anúnciados no dia **08 de Março de 2020**.
-
-<center><a href="https://uruguaiana.tchelinux.org/cfp/" style="color:#ff4040"><b><h3>Clique aqui e submeta sua palestra!<h3></b></a></center>
-
 ## Inscrições
 
 As inscrições já se encontram abertas e podem ser feitas através do link abaixo: 

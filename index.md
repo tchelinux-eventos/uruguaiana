@@ -18,6 +18,85 @@ Serão fornecidos certificados digitais para os participantes do evento, que con
 
 **Importante:** Não esqueça de confirmar sua presença no credenciamento.
 
+## Programação
+
+| <center> Horário </center> | <center> Salão Nobre </center> |
+|:--------------------------:|:-----------------------:|
+| **08:30** <td colspan=1><center>**Credenciamento**</center> |
+| **09:00** <td colspan=1><center>**Abertura**<br> <span class="label label-info">Todo o público</span> <br>Equipe Tchelinux<br> </center> |
+| **09:30** <td colspan=1><center>[**Porque e Como Participar de Projetos Open Source**](#Porque_e_Como_Participar_de_Projetos_Open_Source) <br> <span class="label label-success">Principiante</span> <br> Julio Biason |
+| **10:20** <td colspan=1><center>[**Backup eficiente com RClone**](#Backup_eficiente_com_RClone) <br> <span class="label label-success">Principiante</span> <br> Eduardo Cabezudo Vilhalba |
+| **11:10** <td colspan=1><center>[**Fugindo para as Colinas com Python**](#Fugindo_para_as_Colinas_com_Python) <br> <span class="label label-success">Principiante</span> <br> Julio Biason |
+| **12:00** <td colspan=1><center>**Intervalo para Almoço**</center> |
+| **13:30** <td colspan=1><center>[**Startup: escalando soluções com Software Livre**](#Startup: escalando soluções com Software Livre) <br> <span class="label label-success">Principiante</span> <br> Andrius Jaques |
+| **14:20** <td colspan=1><center>[**Acelere sua carreira de desenvolvedor mobile com Dart e Flutter!**](#Acelere_sua_carreira_de_desenvolvedor_mobile_com_Dart_e_Flutter!) <br> <span class="label label-success">Principiante</span> <br> Juliano Carvalho Dorneles |
+| **15:10** <td colspan=1><center>**Coffee-Break**</center> |
+| **15:40** <td colspan=1><center>[**A nova economia: criando uma criptomoeda com Software Livre**](#A_nova_economia:_criando_uma_criptomoeda_com_Software_Livre) <br> <span class="label label-success">Principiante</span> <br> Andrius Jaques |
+| **16:30** <td colspan=1><center>[**Infraestrutura como código: Pense infra como software**](#Infraestrutura_como_código:_Pense_infra_como_software) <br> <span class="label label-success">Principiante</span> <br> Thiago Finardi |
+| **17:20** <td colspan=4><center>**Encerramento**<br> <span class="label label-info">Todo o público</span> <br> Equipe Tchelinux <br> </center> |
+
+## Palestras
+
+### Porque e Como Participar de Projetos Open Source
+
+No mundo atual, todos usam pelo menos um aplicativo open source. Mas como participar disso? Como ajudar o aplicativo a melhorar? É preciso saber programar para ajudar? Essas e outras perguntas serão respondidas nessa apresentação.
+
+### Julio Biason
+
+[**Julio Biason**](https://juliobiason.me) é desenvolvedor desde os 12 anos, passando por várias linguagens e diferentes metodologies de testes; participa de desenvolvimento de software open source desde 1990.
+
+### Backup eficiente com RClone
+
+O objetivo da palestra é apresentar a ferramenta Rclone, com o objetivo de configurar a mesma para backup em nuvem e apresentar de forma pratica configurando um servidor na DigitalOcean com uma tarefa de agendada de sincronização com a nuvem e outro exemplo de sincronização entre nuvens, exemplo Google Drive sincronizado com o Amazon S3.
+
+### Eduardo Cabezudo Vilhalba
+
+[**Eduardo Cabezudo Vilhalba**](https://www.linkedin.com/in/eduardo-cabezudo-vilhalba-141590186) trabalha com TI desde os 13 anos, atualmente possui uma empresa de Suporte e Desenvolvimento de Software para clientes em diversas cidades do RS. Antes disso trabalhou como Gerente de Tecnologia.
+
+### Fugindo para as Colinas com Python
+
+Uma introdução incomum ao Python. Ao invés de sair explicando cada um dos elementos da linguagem, iremos destrinchar uma simples aplicação que já existe, explicando as peculiaridades da linguagem.
+
+### Julio Biason
+
+[**Julio Biason**](https://juliobiason.me) é desenvolvedor desde os 12 anos, passando por várias linguagens e diferentes metodologies de testes; participa de desenvolvimento de software open source desde 1990.
+
+### Startup: escalando soluções com Software Livre
+
+O ambiente de inovação e empreendorismo das startups possui um grande desafio: criar soluções escaláveis. Considerando esta abordagem, nosso diálogo visa apresentar ao publico soluções em software livre que possam ser aplicadas no desenvolvimento de produtos de base tecnológica, visando escalabilidade e performance de desenvolvimento.
+
+### Andrius Jaques
+
+[**Andrius Jaques**](https://people.tchelinux.org/jaques/) é Empreendedor, entusiasta de projetos Opensource e dados abertos.
+
+### Acelere sua carreira de desenvolvedor mobile com Dart e Flutter!
+
+Nesta apresentação serão vistos o Dart e o Flutter usados no desenvolvimento mobile e como se beneficiar dessas tecnologias.
+
+### Juliano Carvalho Dorneles
+
+[**Juliano Carvalho Dorneles**](https://www.linkedin.com/in/juliano-carvalho-dorneles-027664129/) é Analista e Desenvolvedor de Sistemas pelo Instituto Federal Farroupilha Campus Alegrete. Atua a mais de 10 anos na área de Tecnologia da Informação conectando pessoas e integrando sistemas. Atualmente Chief Operating Officer na SuperMark Brasil Startup incubada no Pampatec em Alegrete no segmento de Varejo.
+
+### A nova economia: criando uma criptomoeda com Software Livre
+
+Será abordado como a estrutura de blockchain está sendo aplicada ao universo das criptomoedas, como a criptografia funciona neste contexto e de qual o caminho e tecnologias podem ser adotadas para criação de uma criptomoeda própria, utilizando soluções em software livre.
+
+### Andrius Jaques
+
+[**Andrius Jaques**](https://people.tchelinux.org/jaques/) é Empreendedor, entusiasta de projetos Opensource e dados abertos.
+
+### Infraestrutura como código: Pense infra como software
+
+Já pensou em automatizar os processos repetíveis de provisionamento e gerenciamento de configuração de recursos de infra completos utilizando a IaC? Nesta apresentação serão abordas ferramentas e metodologias que podem ser utilizadas para implementar um cenário de automação, seja no modelo tradicional mutável ou no modelo de Infraestrutura imutável.
+
+### Thiago Finardi
+
+[**Thiago Finardi**](https://people.tchelinux.org/tfinardi/) é Mestrando em Ciência da Computação e Especialista em Gestão de Segurança da Informação. Profissional de TI com mais de 12 anos de experiência em infraestrutura computacional, GNU/Linux, segurança da informação, treinamento e suporte. Atualmente, executa o papel de Engenheiro de Confiabilidade do Site (SRE) em âmbito Militar. 
+
+Dentre os principais conhecimentos pertinentes a área de atuação estão: Next Generation Firewalls (Cisco, Palo Alto e F5 Networks); Cloud Computing (Azure, AWS e GCP); Ferramentas DevOps; Big Data; Machine Learning; Infraestrutura hibrida e; Infraestrutura como Código (IaC).
+
+Durante sua jornada na área de TI pode executar vários papéis, porém sempre com ênfase na administração de sistemas, como VMware vSphere, Xen Server, GNU/Linux (Debian e Red Hat) e Windows Server. Assim como os mais diversos serviços suportados por uma infraestrutura de TI.
+
 ## Local
 
 > **UNOPAR Uruguaiana**
